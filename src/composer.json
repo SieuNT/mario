@@ -20,7 +20,8 @@
         "yiisoft/yii2-swiftmailer": "~2.0.0",
         "yiisoft/yii2-imagine": "^2.1",
         "yiisoft/yii2-authclient": "^2.1",
-        "league/glide": "^1.2"
+        "league/glide": "^1.2",
+        "yiisoft/yii2-httpclient": "^2.0"
     },
     "require-dev": {
         "yiisoft/yii2-debug": "~2.0.0",
